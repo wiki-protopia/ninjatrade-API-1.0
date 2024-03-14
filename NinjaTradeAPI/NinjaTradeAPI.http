@@ -1,0 +1,6 @@
+@NinjaTradeAPI_HostAddress = http://localhost:5036
+
+GET {{NinjaTradeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
